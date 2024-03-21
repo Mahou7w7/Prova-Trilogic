@@ -1,0 +1,4 @@
+após diversas pesquisas consegui organizar o JSON, entretanto, não consegui deixar os usuários em ordem alfabética por conta
+da minha falta de conhecimento com dev usando JSON.
+ Já sobre a questão do PHP, eu tentei configurar o arquivo utilizando o Apache, entretanto, por mais que tentasse, não 
+funcionou, por isto, não pude concluir a questão.
